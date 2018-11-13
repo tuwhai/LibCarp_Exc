@@ -19,3 +19,6 @@ Falls durch Verlage angeboten und von den AutorInnen gewünscht, können auch Za
 
 Sonderabkommen mit Verlagen:
 In manchen Fällen existieren Abkommen bezüglich Rabatte, Kostenverrechnung oder Embargozeiten zwischen dem FWF und Verlagen. Sollten solche Abkommen bestehen, werden die AutorInnen während des Einreichverfahrens vom Verlag darüber informiert.
+
+3) Green Open Acess:
+Open Access für Pblikationen kann auch durch die Selbstarchivierung der vom Verlag akzeptierten Version (accepted manuscript) in einem disziplinspezifischen oder institutionellen Repositorium erfolgen. Falls es Embargofristen gibt, durch die eine unmittelbare Selbstarchivierung bereits publizierter Forschungsergebnisse in Repositorien nicht gestattet ist, sollten diese nicht länger als zwölf Monate sein. Sind die Embargofristen länger, sollte ein anderes Publikationsorgan gewählt werden. Zu den Selbstarchivierungs-Politiken der Verlage siehe Sherpa/Romeo.
